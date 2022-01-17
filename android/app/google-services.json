@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121315742321",
+    "project_id": "ithra-111",
+    "storage_bucket": "ithra-111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121315742321:android:aaacb06dd173e8a108c1d0",
+        "android_client_info": {
+          "package_name": "com.example.ithra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121315742321-0ih4fmi0nhe1ufak7adom2mf40j9qljn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqFEQFE6RbowQYmTqYYOJepiHbS-yjgcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121315742321-0ih4fmi0nhe1ufak7adom2mf40j9qljn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
